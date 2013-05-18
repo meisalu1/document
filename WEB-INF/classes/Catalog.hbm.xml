@@ -21,8 +21,8 @@
     <column name="folder"/>
   </property>
   <set name="subCats" lazy="false" inverse="true" cascade="all" order-by="name">
-  	<key column="upper_catalog_fk" />
-  	<one-to-many class="documents.model.data.Catalog" />
+        <key column="upper_catalog_fk" />
+        <one-to-many class="documents.model.data.Catalog" />
   </set>
  </class>
 </hibernate-mapping>

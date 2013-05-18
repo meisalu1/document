@@ -8,7 +8,7 @@ Author:  Raul Liivrand
 -->
 
 <project name="document" default="all" basedir=".">
-      <property name="application_name" value="r23_docs"/>
+      <property name="application_name" value="r52_docs_test"/>
 	  <!-- Configure properties to access the Manager application -->
 	  <property name="url"      value="http://imbi.ld.ttu.ee:7500/manager/text"/>
 	  <property name="username" value="manager"/>
@@ -38,8 +38,8 @@ Author:  Raul Liivrand
       <property name="jsp.dir"        value="."            />
       <property name="build.dir"      value="build"            />
       <property name="pkg-dist.name"  value="${name}-pkg" />
-	  <property name="tomcat.home" location="/usr/share/tomcat7"/>
- 	  <property name="tomcat.server.lib" location="/usr/share/tomcat7/lib" />
+	  <property name="tomcat.home" location="/Program Files/Apache Software Foundation/Tomcat 7.0"/>
+ 	  <property name="tomcat.server.lib" location="/Program Files/Apache Software Foundation/Tomcat 7.0/lib" />
 	  <property name="myapp.lib" location="lib"/>
 	   <path id="lib.classpath">
 	   <pathelement location="${classes.dir}"/>

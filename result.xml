@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="1" failures="0" hostname="Playtech-L1377" name="book.test.BookDAOTests" tests="1" time="0.0" timestamp="2013-05-18T10:13:27">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="username" value="manager" />
+    <property name="ENV.ProgramW6432" value="C:\Program Files" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="eclipse.pdebuild.templates" value="/C:/Users/martinm/Desktop/eclipse-jee-juno-SR1-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.8.1.v20120725-202643/templates/" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="src_all.dir" value="src" />
+    <property name="os.name" value="Windows 7" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.7.0_13\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_13\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_13\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_13\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_13\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_13\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_13\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_13\jre\classes" />
+    <property name="ENV.windows_tracing_logfile" value="C:\BVTBin\Tests\installpackage\csilogfile.log" />
+    <property name="user.country.format" value="EE" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ENV.PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\" />
+    <property name="ant.home" value="C:\ant" />
+    <property name="java.runtime.version" value="1.7.0_13-b20" />
+    <property name="ENV.AVR32_HOME" value="C:\WinAVR-20100110" />
+    <property name="ENV.TEMP" value="C:\Users\martinm\AppData\Local\Temp" />
+    <property name="ENV.UATDATA" value="C:\Windows\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77" />
+    <property name="user.name" value="martinm" />
+    <property name="ENV.SD_CLIENT2008HOME" value="C:\Program Files (x86)\Hewlett-Packard\OpenView\service desk 4.5\Client 2008\" />
+    <property name="user.language.format" value="et" />
+    <property name="ENV.PROCESSOR_REVISION" value="3a09" />
+    <property name="build.dir" value="build" />
+    <property name="user.language" value="en" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.7.0_13\jre\bin" />
+    <property name="url" value="http://imbi.ld.ttu.ee:7500/manager/text" />
+    <property name="ENV.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+    <property name="ant.project.default-target" value="all" />
+    <property name="ant.project.name" value="document" />
+    <property name="java.version" value="1.7.0_13" />
+    <property name="ENV.PROCESSOR_LEVEL" value="6" />
+    <property name="ENV.PROMPT" value="$P$G" />
+    <property name="user.timezone" value="" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="jsp.dir" value="." />
+    <property name="ENV.TMP" value="C:\Users\martinm\AppData\Local\Temp" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.7.0_13\jre\lib\endorsed" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="sun.jnu.encoding" value="Cp1257" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="ENV.ProgramFiles" value="C:\Program Files" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="classes.dir" value="WEB-INF/classes" />
+    <property name="java.class.version" value="51.0" />
+    <property name="tomcat.server.lib" value="C:\Program Files\Apache Software Foundation\Tomcat 7.0\lib" />
+    <property name="user.country" value="US" />
+    <property name="ENV.ALLUSERSPROFILE" value="C:\ProgramData" />
+    <property name="java.home" value="C:\Program Files\Java\jdk1.7.0_13\jre" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="ant.file" value="C:\Users\martinm\Documents\GitHub\dokumendid\document\build.xml" />
+    <property name="os.version" value="6.1" />
+    <property name="ENV.TOMCAT_HOME" value="C:\Program Files\Apache Software Foundation\Tomcat 7.0" />
+    <property name="ENV.LOCALAPPDATA" value="C:\Users\martinm\AppData\Local" />
+    <property name="ENV.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
+    <property name="ENV.windows_tracing_flags" value="3" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="23.7-b01" />
+    <property name="ENV.PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 58 Stepping 9, GenuineIntel" />
+    <property name="user.variant" value="" />
+    <property name="ant.library.dir" value="C:\ant\lib" />
+    <property name="ENV.USERPROFILE" value="C:\Users\martinm" />
+    <property name="ENV.ANT_HOME" value="C:\ant" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="path" value="/r52_docs_test" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="ENV.CommonProgramW6432" value="C:\Program Files\Common Files" />
+    <property name="src_web_inf.dir" value="src/WEB-INF" />
+    <property name="user.script" value="" />
+    <property name="ENV.SystemRoot" value="C:\Windows" />
+    <property name="eclipse.pdebuild.scripts" value="/C:/Users/martinm/Desktop/eclipse-jee-juno-SR1-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.8.1.v20120725-202643/scripts/" />
+    <property name="prop.dir" value="src/properties" />
+    <property name="user.home" value="C:\Users\martinm" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="ENV.ProgramData" value="C:\ProgramData" />
+    <property name="ENV.USERDNSDOMAIN" value="EE.PLAYTECH.CORP" />
+    <property name="ENV.SESSIONNAME" value="Console" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.library.path" value="C:\Users\martinm\Desktop\eclipse-jee-juno-SR1-win32-x86_64\eclipse;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Users/martinm/Desktop/eclipse-jee-juno-SR1-win32-x86_64/eclipse/jre/bin/../jre/bin/server;C:/Users/martinm/Desktop/eclipse-jee-juno-SR1-win32-x86_64/eclipse/jre/bin/../jre/bin;C:/Users/martinm/Desktop/eclipse-jee-juno-SR1-win32-x86_64/eclipse/jre/bin/../jre/lib/amd64;C:\WinAVR-20100110\bin;C:\WinAVR-20100110\utils\bin;C:\Program Files (x86)\Estonian ID Card\;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\ThinkPad\Bluetooth Software\;C:\Program Files\ThinkPad\Bluetooth Software\syswow64;;C:\Program Files (x86)\cvsnt;C:\Python27;C:\Program Files (x86)\Bitvise SSH Client;C:\Program Files\Java\jdk1.7.0_13\bin;C:\ant\bin;C:\Users\martinm\Desktop\eclipse-jee-juno-SR1-win32-x86_64\eclipse;;.;C:\Users\martinm\Desktop\eclipse-jee-juno-SR1-win32-x86_64\eclipse\configuration\org.eclipse.osgi\bundles\628\1\.cp" />
+    <property name="ENV.ProgramFiles(x86)" value="C:\Program Files (x86)" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="ENV.PUBLIC" value="C:\Users\Public" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="java.class.path" value="C:\ant\lib\ant-antlr.jar;C:\ant\lib\ant-apache-bcel.jar;C:\ant\lib\ant-apache-bsf.jar;C:\ant\lib\ant-apache-log4j.jar;C:\ant\lib\ant-apache-oro.jar;C:\ant\lib\ant-apache-regexp.jar;C:\ant\lib\ant-apache-resolver.jar;C:\ant\lib\ant-apache-xalan2.jar;C:\ant\lib\ant-commons-logging.jar;C:\ant\lib\ant-commons-net.jar;C:\ant\lib\ant-jai.jar;C:\ant\lib\ant-javamail.jar;C:\ant\lib\ant-jdepend.jar;C:\ant\lib\ant-jmf.jar;C:\ant\lib\ant-jsch.jar;C:\ant\lib\ant-junit.jar;C:\ant\lib\ant-junit4.jar;C:\ant\lib\ant-launcher.jar;C:\ant\lib\ant-netrexx.jar;C:\ant\lib\ant-swing.jar;C:\ant\lib\ant-testutil.jar;C:\ant\lib\ant.jar;C:\ant\lib\catalina-ant.jar;C:\ant\lib\tomcat-coyote.jar;C:\ant\lib\tomcat-juli.jar;C:\ant\lib\tomcat-util.jar;C:\Users\martinm\Desktop\eclipse-jee-juno-SR1-win32-x86_64\eclipse\configuration\org.eclipse.osgi\bundles\57\1\.cp\lib\antdebug.jar;C:\Users\martinm\Desktop\eclipse-jee-juno-SR1-win32-x86_64\eclipse\configuration\org.eclipse.osgi\bundles\57\1\.cp\lib\remote.jar;C:\Users\martinm\Desktop\eclipse-jee-juno-SR1-win32-x86_64\eclipse\configuration\org.eclipse.osgi\bundles\58\1\.cp\lib\remoteAnt.jar;C:\Program Files\Java\jdk1.7.0_13\lib\tools.jar;C:\Users\martinm\Desktop\eclipse-jee-juno-SR1-win32-x86_64\eclipse\plugins\org.eclipse.swt.win32.win32.x86_64_3.100.1.v4234e.jar" />
+    <property name="sun.java.command" value="org.eclipse.ant.internal.launching.remote.InternalAntRunner -Dorg.eclipse.ant.core.ANT_PROCESS_ID=1368871999164 -Declipse.connect.port=61201 -Declipse.pdebuild.home=/C:/Users/martinm/Desktop/eclipse-jee-juno-SR1-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.8.1.v20120725-202643/./ -Declipse.pdebuild.scripts=/C:/Users/martinm/Desktop/eclipse-jee-juno-SR1-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.8.1.v20120725-202643/scripts/ -Declipse.pdebuild.templates=/C:/Users/martinm/Desktop/eclipse-jee-juno-SR1-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.8.1.v20120725-202643/templates/ -Dant.home=C:\ant -logger org.eclipse.ant.internal.launching.remote.logger.RemoteAntBuildLogger -inputhandler org.eclipse.ant.internal.ui.antsupport.inputhandler.ProxyInputHandler -buildfile C:\Users\martinm\Documents\GitHub\dokumendid\document\build.xml run_tests" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.8.4 compiled on May 22 2012" />
+    <property name="ENV.USERNAME" value="martinm" />
+    <property name="ENV.COMMPath" value="C:\Program Files\Lenovo\Communications Utility" />
+    <property name="ENV.OS" value="Windows_NT" />
+    <property name="ENV.COMPUTERNAME" value="PLAYTECH-L1377" />
+    <property name="ENV.FP_NO_HOST_CHECK" value="NO" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ENV.USERDOMAIN" value="EE" />
+    <property name="ENV.Path" value="C:/Users/martinm/Desktop/eclipse-jee-juno-SR1-win32-x86_64/eclipse/jre/bin/../jre/bin/server;C:/Users/martinm/Desktop/eclipse-jee-juno-SR1-win32-x86_64/eclipse/jre/bin/../jre/bin;C:/Users/martinm/Desktop/eclipse-jee-juno-SR1-win32-x86_64/eclipse/jre/bin/../jre/lib/amd64;C:\WinAVR-20100110\bin;C:\WinAVR-20100110\utils\bin;C:\Program Files (x86)\Estonian ID Card\;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\ThinkPad\Bluetooth Software\;C:\Program Files\ThinkPad\Bluetooth Software\syswow64;;C:\Program Files (x86)\cvsnt;C:\Python27;C:\Program Files (x86)\Bitvise SSH Client;C:\Program Files\Java\jdk1.7.0_13\bin;C:\ant\bin;C:\Users\martinm\Desktop\eclipse-jee-juno-SR1-win32-x86_64\eclipse;" />
+    <property name="ENV.PROCESSOR_ARCHITECTURE" value="AMD64" />
+    <property name="java.vm.specification.version" value="1.7" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="Service Pack 1" />
+    <property name="ant.file.type.document" value="file" />
+    <property name="java.io.tmpdir" value="C:\Users\martinm\AppData\Local\Temp\" />
+    <property name="eclipse.pdebuild.home" value="/C:/Users/martinm/Desktop/eclipse-jee-juno-SR1-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.8.1.v20120725-202643/./" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="src_jsp.dir" value="src/jsp" />
+    <property name="application_name" value="r52_docs_test" />
+    <property name="ENV.NUMBER_OF_PROCESSORS" value="4" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="os.arch" value="amd64" />
+    <property name="ENV.APPDATA" value="C:\Users\martinm\AppData\Roaming" />
+    <property name="ENV.ComSpec" value="C:\Windows\system32\cmd.exe" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.7.0_13\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+    <property name="myapp.lib" value="C:\Users\martinm\Documents\GitHub\dokumendid\document\lib" />
+    <property name="ENV.asl.log" value="Destination=file" />
+    <property name="pkg-dist.name" value="${name}-pkg" />
+    <property name="user.dir" value="C:\Users\martinm\Documents\GitHub\dokumendid\document" />
+    <property name="password" value="tomcat" />
+    <property name="ENV.HOMEDRIVE" value="C:" />
+    <property name="ENV.windir" value="C:\Windows" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="ENV.LOGONSERVER" value="\\EE-DC2" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="ENV.CommonProgramFiles" value="C:\Program Files\Common Files" />
+    <property name="tomcat.home" value="C:\Program Files\Apache Software Foundation\Tomcat 7.0" />
+    <property name="basedir" value="C:\Users\martinm\Documents\GitHub\dokumendid\document" />
+    <property name="ant.java.version" value="1.7" />
+    <property name="ant.core.lib" value="C:\ant\lib\ant.jar" />
+    <property name="ENV.HOMEPATH" value="\Users\martinm" />
+    <property name="web-inf.dir" value="WEB-INF" />
+    <property name="src_static.dir" value="src/static" />
+    <property name="file.encoding" value="Cp1257" />
+    <property name="ENV.SystemDrive" value="C:" />
+    <property name="src_hibernate.dir" value="src/hibernate" />
+    <property name="java.specification.version" value="1.7" />
+    <property name="src.dir" value="src/documents" />
+    <property name="ant.project.invoked-targets" value="run_tests" />
+    <property name="ant.file.document" value="C:\Users\martinm\Documents\GitHub\dokumendid\document\build.xml" />
+  </properties>
+  <error message="book.test.BookDAOTests" type="java.lang.ClassNotFoundException">java.lang.ClassNotFoundException: book.test.BookDAOTests
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:356)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:266)
+	at org.eclipse.ant.internal.launching.remote.EclipseDefaultExecutor.executeTargets(EclipseDefaultExecutor.java:32)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.run(InternalAntRunner.java:424)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.main(InternalAntRunner.java:138)
+</error>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
