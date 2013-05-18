@@ -9,9 +9,9 @@
 
         <!-- Database connection settings -->
         <property name="connection.driver_class">org.postgresql.Driver</property>
-        <property name="connection.url">jdbc:postgresql://imbi.ld.ttu.ee:5432/r23_docs</property> 
+        <property name="connection.url">jdbc:postgresql://imbi.ld.ttu.ee:5432/52_database</property> 
         <property name="connection.username">postgres</property>
-        <property name="connection.password"></property>
+        <property name="connection.password">jkl</property>
 
         <!-- JDBC connection pool (use the built-in) -->
         <property name="connection.pool_size">2</property>
