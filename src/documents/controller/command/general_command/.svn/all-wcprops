@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9/trunk/src/documents/controller/command/general_command
+END
+PopulateDocAttr.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9/trunk/src/documents/controller/command/general_command/PopulateDocAttr.java
+END
+PopulateTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/src/documents/controller/command/general_command/PopulateTypes.java
+END
+PopulateDocStatuses.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/src/documents/controller/command/general_command/PopulateDocStatuses.java
+END

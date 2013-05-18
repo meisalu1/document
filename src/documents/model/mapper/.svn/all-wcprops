@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/9/trunk/src/documents/model/mapper
+END
+AttributeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9/trunk/src/documents/model/mapper/AttributeMapper.java
+END
+DocumentMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9/trunk/src/documents/model/mapper/DocumentMapper.java
+END
+UserMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/documents/model/mapper/UserMapper.java
+END
+DocumentListElemMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9/trunk/src/documents/model/mapper/DocumentListElemMapper.java
+END
+DocumentTypeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/src/documents/model/mapper/DocumentTypeMapper.java
+END
+StatusMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/documents/model/mapper/StatusMapper.java
+END

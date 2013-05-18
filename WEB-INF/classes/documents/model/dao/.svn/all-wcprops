@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7/trunk/WEB-INF/classes/documents/model/dao
+END
+AttributeDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7/trunk/WEB-INF/classes/documents/model/dao/AttributeDAO.class
+END
+AttributeDAOImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7/trunk/WEB-INF/classes/documents/model/dao/AttributeDAOImpl.class
+END
+DocumentDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7/trunk/WEB-INF/classes/documents/model/dao/DocumentDAO.class
+END
+DocumentDAOImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/WEB-INF/classes/documents/model/dao/DocumentDAOImpl.class
+END
+CatalogDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7/trunk/WEB-INF/classes/documents/model/dao/CatalogDAO.class
+END
+CatalogDAOImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/WEB-INF/classes/documents/model/dao/CatalogDAOImpl.class
+END
+GeneralDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7/trunk/WEB-INF/classes/documents/model/dao/GeneralDAO.class
+END
+DocumentTypeDAOImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7/trunk/WEB-INF/classes/documents/model/dao/DocumentTypeDAOImpl.class
+END
+HibernateUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/WEB-INF/classes/documents/model/dao/HibernateUtils.class
+END
+StatusDAOImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/7/trunk/WEB-INF/classes/documents/model/dao/StatusDAOImpl.class
+END
+UserAuth.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7/trunk/WEB-INF/classes/documents/model/dao/UserAuth.class
+END
+UserAuthImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7/trunk/WEB-INF/classes/documents/model/dao/UserAuthImpl.class
+END

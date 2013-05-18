@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/7/trunk/src/properties
+END
+DBConnection.properties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7/trunk/src/properties/DBConnection.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/properties/log4j.properties
+END

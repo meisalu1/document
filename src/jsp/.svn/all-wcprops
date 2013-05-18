@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/9/trunk/src/jsp
+END
+add_document.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/6/trunk/src/jsp/add_document.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/src/jsp/login.jsp
+END
+catalog.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/9/trunk/src/jsp/catalog.jsp
+END
+all_docs.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8/trunk/src/jsp/all_docs.jsp
+END
+document_search.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5/trunk/src/jsp/document_search.jsp
+END

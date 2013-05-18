@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/9/trunk/src/hibernate
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9/trunk/src/hibernate/hibernate.cfg.xml
+END
+Catalog.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/9/trunk/src/hibernate/Catalog.hbm.xml
+END

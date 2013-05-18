@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<login>
+	<title>Dokumendtide haldus</title>
+	<form>
+		<input>
+			<label>Kasutajanimi:</label>
+			<name>username</name>
+			<placeholder>Sinu kasutajanimi...</placeholder>
+			<type>text</type>
+			<classvalue>row</classvalue>
+		</input>
+		<input>
+			<label>Parool:</label>
+			<name>password</name>
+			<placeholder>Sinu parool...</placeholder>
+			<type>password</type>
+			<classvalue>row</classvalue>
+		</input>
+		<input>
+			<name>submit</name>
+			<type>submit</type>
+			<label>Sisene</label>
+			<classvalue>row</classvalue>
+		</input>
+		<input>
+			<name>action</name>
+			<value>login</value>
+			<type>hidden</type>
+		</input>
+	</form>
+</login>
+	

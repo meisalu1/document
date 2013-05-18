@@ -1,0 +1,52 @@
+10
+
+dir
+9
+http://dokumendid.googlecode.com/svn/trunk/src
+http://dokumendid.googlecode.com/svn
+
+
+
+2012-06-11T18:21:29.996820Z
+9
+sirpmarek@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+24858a71-14a3-b238-c451-9c2be1633d54
+
+WEB-INF
+dir
+
+documents
+dir
+
+hibernate
+dir
+
+jsp
+dir
+
+properties
+dir
+
+static
+dir
+
+xml
+dir
+
+xslt
+dir
+

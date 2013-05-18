@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/9/trunk/src/documents/model/dao
+END
+StatusDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/documents/model/dao/StatusDAOImpl.java
+END
+HibernateUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7/trunk/src/documents/model/dao/HibernateUtils.java
+END
+DocumentTypeDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/documents/model/dao/DocumentTypeDAOImpl.java
+END
+GeneralDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/documents/model/dao/GeneralDAO.java
+END
+CatalogDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9/trunk/src/documents/model/dao/CatalogDAOImpl.java
+END
+CatalogDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9/trunk/src/documents/model/dao/CatalogDAO.java
+END
+DocumentDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9/trunk/src/documents/model/dao/DocumentDAO.java
+END
+DocumentDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9/trunk/src/documents/model/dao/DocumentDAOImpl.java
+END
+AttributeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9/trunk/src/documents/model/dao/AttributeDAO.java
+END
+AttributeDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9/trunk/src/documents/model/dao/AttributeDAOImpl.java
+END
+UserAuth.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/documents/model/dao/UserAuth.java
+END
+UserAuthImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/documents/model/dao/UserAuthImpl.java
+END

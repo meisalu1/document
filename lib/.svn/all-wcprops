@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/7/trunk/lib
+END
+jboss-logging-3.1.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/lib/jboss-logging-3.1.0.GA.jar
+END
+antlr-2.7.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/6/trunk/lib/antlr-2.7.7.jar
+END
+javax.servlet.jsp.jstl-1.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/lib/javax.servlet.jsp.jstl-1.2.1.jar
+END
+hibernate-jpa-2.0-api-1.0.1.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar
+END
+gson-2.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/7/trunk/lib/gson-2.2.1.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/6/trunk/lib/dom4j-1.6.1.jar
+END
+hibernate-commons-annotations-4.0.1.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/lib/hibernate-commons-annotations-4.0.1.Final.jar
+END
+junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/lib/junit.jar
+END
+jboss-transaction-api_1.1_spec-1.0.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/lib/jboss-transaction-api_1.1_spec-1.0.0.Final.jar
+END
+hibernate-core-4.1.2.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7/trunk/lib/hibernate-core-4.1.2.Final.jar
+END
+log4j-1.2.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/lib/log4j-1.2.15.jar
+END
+javax.servlet.jsp.jstl-api-1.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/lib/javax.servlet.jsp.jstl-api-1.2.1.jar
+END
+javassist-3.15.0-GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/trunk/lib/javassist-3.15.0-GA.jar
+END
